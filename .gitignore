@@ -3,3 +3,7 @@
 __pycache__/
 /.claude/
 /wordclouds/
+clustering/
+ngrams/
+topics/
+topic_modeling/
